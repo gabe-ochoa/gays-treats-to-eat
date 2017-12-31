@@ -6,8 +6,8 @@ category: ["eggs"]
 tags:
 ---
 
-# recipe
+# corn-scramble
 
 # Original Scanned Image
 
-![](/static/eggs/recipe.png)
+![](/static/eggs/corn-scramble.png)

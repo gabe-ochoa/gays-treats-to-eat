@@ -2,12 +2,12 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-category: ["eggs"]
+category: ["appetizers"]
 tags:
 ---
 
-# recipe
+# artichoke-and-green-olive-dip
 
 # Original Scanned Image
 
-![](/static/eggs/recipe.png)
+![](/static/appetizers/artichoke-and-green-olive-dip.png)

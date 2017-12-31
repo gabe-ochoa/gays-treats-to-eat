@@ -6,8 +6,8 @@ category: ["meats-and-poultry"]
 tags:
 ---
 
-# Recipe
+# recipe
 
 # Original Scanned Image
 
-![](/static/meats-and-poultry/image.png)
+![](/static/meats-and-poultry/recipe.png)

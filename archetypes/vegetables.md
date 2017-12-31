@@ -6,8 +6,8 @@ category: ["vegetables"]
 tags:
 ---
 
-# Recipe
+# recipe
 
 # Original Scanned Image
 
-![](/static/vegetables/{{ .Replace}}.png)
+![](/static/vegetables/recipe.png)

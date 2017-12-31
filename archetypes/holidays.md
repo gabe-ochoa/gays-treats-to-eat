@@ -6,8 +6,8 @@ category: ["holidays"]
 tags:
 ---
 
-# Recipe
+# recipe
 
 # Original Scanned Image
 
-![](/static/holidays/image.png)
+![](/static/holidays/recipe.png)

@@ -73,9 +73,6 @@ func archetypesToCreate() []string {
 		if info.Name() == "content/recipes/" {
 			return nil
 		}
-		// split path and compare to the archetype that already exists
-		// log.Println("Splitting", info.Name())
-		// fileName := strings.Split(info.Name(), "/")[2]
 		if contains(archetypes, info.Name()) {
 			return nil
 		}
@@ -103,11 +100,6 @@ func main() {
 
 		// Replace "default" with the name of the new archetype
 		file := strings.Replace(defaultArchetype, "default", newArchetype, -1)
-
-		// _, err := os.Create(file)
-		// if err != nil {
-		// 	log.Fatal(err)
-		// }
 
 		err := ioutil.WriteFile("archetypes/"+newArchetype+".md", []byte(file), 0644)
 		if err != nil {

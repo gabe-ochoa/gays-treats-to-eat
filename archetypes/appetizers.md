@@ -6,8 +6,8 @@ category: ["appetizers"]
 tags:
 ---
 
-# Recipe
+# recipe
 
 # Original Scanned Image
 
-![](/static/appetizers/image.png)
+![](/static/appetizers/recipe.png)

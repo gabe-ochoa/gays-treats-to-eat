@@ -6,8 +6,8 @@ category: ["default"]
 tags:
 ---
 
-# Recipe
+# recipe
 
 # Original Scanned Image
 
-![](/static/default/image.png)
+![](/static/default/recipe.png)

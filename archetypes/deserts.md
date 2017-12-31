@@ -6,8 +6,8 @@ category: ["deserts"]
 tags:
 ---
 
-# Recipe
+# recipe
 
 # Original Scanned Image
 
-![](/static/deserts/image.png)
+![](/static/deserts/recipe.png)

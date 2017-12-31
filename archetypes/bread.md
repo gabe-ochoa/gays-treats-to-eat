@@ -6,8 +6,8 @@ category: ["bread"]
 tags:
 ---
 
-# Recipe
+# recipe
 
 # Original Scanned Image
 
-![](/static/bread/image.png)
+![](/static/bread/recipe.png)

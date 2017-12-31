@@ -2,12 +2,12 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-category: ["eggs"]
+category: ["meats-and-poultry"]
 tags:
 ---
 
-# recipe
+# stuffed-chicken-thighs
 
 # Original Scanned Image
 
-![](/static/eggs/recipe.png)
+![](/static/meats-and-poultry/stuffed-chicken-thighs.png)

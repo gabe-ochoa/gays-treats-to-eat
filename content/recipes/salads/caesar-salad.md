@@ -2,12 +2,12 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-category: ["eggs"]
+category: ["salads"]
 tags:
 ---
 
-# recipe
+# caesar-salad
 
 # Original Scanned Image
 
-![](/static/eggs/recipe.png)
+![](/static/salads/caesar-salad.png)
