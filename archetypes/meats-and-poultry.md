@@ -2,7 +2,7 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-category: ["holidays"]
+category: ["meats-and-poultry"]
 tags:
 ---
 
@@ -10,4 +10,4 @@ tags:
 
 # Original Scanned Image
 
-![](/static/holidays/image.png)
+![](/static/meats-and-poultry/image.png)

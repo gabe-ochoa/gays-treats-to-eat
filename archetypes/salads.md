@@ -6,3 +6,8 @@ category: ["salads"]
 tags:
 ---
 
+# Recipe
+
+# Original Scanned Image
+
+![](/static/salads/{{ .Replace}}.png)

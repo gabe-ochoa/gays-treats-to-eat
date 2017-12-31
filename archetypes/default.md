@@ -1,6 +1,13 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
+category: ["default"]
+tags:
 ---
 
+# Recipe
+
+# Original Scanned Image
+
+![](/static/default/image.png)
