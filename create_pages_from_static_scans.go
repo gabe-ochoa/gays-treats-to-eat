@@ -8,6 +8,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"os/exec"
 	"path/filepath"
 	"strings"
 )
@@ -94,7 +95,10 @@ func main() {
 		r := strings.Split(r, "/")
 		archetype, recipe := r[2], strings.Split(r[3], ".")[0]
 
+		// TODO: This does not work. Run the Hugo command here and then string replace in the generated file
 		// load and replace recipe name in template
+		path := "recipes/" + archetype + "/" + recipe + ".md"
+		exec.Command("hugo new %s", path)
 		template := loadArchetype(archetype)
 		file := strings.Replace(template, "recipe", recipe, -1)
 
