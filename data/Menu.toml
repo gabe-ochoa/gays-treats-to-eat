@@ -1,0 +1,34 @@
+[appetizers]
+    Name = "Appetizers"
+    Title = "Show list of posts"
+    URL = "/appetizers"
+
+[bread]
+    Name = "Bread"
+    Title = "Show list of posts"
+    URL = "/bread"
+
+[desserts]
+    Name = "Desserts"
+    Title = "Show list of posts"
+    URL = "/desserts"
+
+[eggs]
+    Name = "Eggs"
+    Title = "Show list of posts"
+    URL = "/eggs"
+
+[holidays]
+    Name = "Holidays"
+    Title = "Show list of posts"
+    URL = "/holidays"
+
+[salad]
+    Name = "Salads"
+    Title = "Show list of posts"
+    URL = "/salad"
+
+[vegetables]
+    Name = "Vegetables"
+    Title = "Show list of posts"
+    URL = "/vegetables"

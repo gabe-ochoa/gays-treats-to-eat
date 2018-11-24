@@ -1,6 +1,6 @@
 ---
-title: {{ replace .Name "-" " " | title }}
-date: {{ .Date }}
+title: Moussaka
+date: 2018-11-24T13:46:45-06:00
 draft: false
 category: ["meats-and-poultry"]
 tags:
@@ -14,4 +14,4 @@ tags:
 
 # Original Scanned Image
 
-![](/meats-and-poultry/{{ .Name }}.png)
+![](/meats-and-poultry/moussaka.png)

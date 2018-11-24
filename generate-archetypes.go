@@ -1,4 +1,4 @@
-// This go script generates new default architypes for the recipe sub-directory cateorgies.
+// This go script generates new default architypes for the Recipe sub-directory cateorgies.
 //
 // usage: go run generate-archetypes.go
 
@@ -58,10 +58,10 @@ func archetypesToCreate() []string {
 	archetypes := currentArchetypes()
 	log.Println("Archetypes that already exist:", archetypes)
 
-	// get all the recipe categories that do not already have archetypes
+	// get all the Recipe categories that do not already have archetypes
 	var files []string
 
-	walkPath := "content/recipes/"
+	walkPath := "content/Recipes/"
 	err := filepath.Walk(walkPath, func(path string, info os.FileInfo, err error) error {
 
 		// only make new archetypes for directories
@@ -70,7 +70,7 @@ func archetypesToCreate() []string {
 		}
 		// or if it's the top level dir
 		// TODO: there's definitely a better way to do this
-		if info.Name() == "content/recipes/" {
+		if info.Name() == "content/Recipes/" {
 			return nil
 		}
 		if contains(archetypes, info.Name()) {

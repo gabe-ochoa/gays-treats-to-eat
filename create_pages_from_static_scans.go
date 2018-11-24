@@ -1,4 +1,4 @@
-// This go script creates pages for each picture in the static/recipes folder
+// This go script creates pages for each picture in the static/Recipes folder
 //
 // usage: go run create_pages_from_scans.go
 
@@ -32,12 +32,20 @@ func loadArchetype(archetype string) string {
 	return string(file)
 }
 
+func getAllArchetypes() []os.FileInfo {
+	files, err := ioutil.ReadDir("archetypes/")
+	if err != nil {
+		log.Fatalln("Could not load archetype file", err)
+	}
+	return files
+}
+
 func currentPages() []string {
 	// get current pages
 
 	var pages []string
 
-	walkPath := "content/recipes/"
+	walkPath := "content/"
 	err := filepath.Walk(walkPath, func(path string, info os.FileInfo, err error) error {
 		if strings.Contains(info.Name(), ".DS_Store") {
 			return nil
@@ -60,10 +68,10 @@ func newRecipes() []string {
 	pages := currentPages()
 	log.Println("Pages that already exist:", pages)
 
-	// get all the recipe categories that do not already have archetypes
+	// get all the Recipe categories that do not already have archetypes
 	var files []string
 
-	walkPath := "static/recipes/"
+	walkPath := "static/"
 	err := filepath.Walk(walkPath, func(path string, info os.FileInfo, err error) error {
 
 		// don't include directories
@@ -72,7 +80,7 @@ func newRecipes() []string {
 		}
 		// or if it's the top level dir
 		// TODO: there's definitely a better way to do this
-		if info.Name() == "static/recipes/" {
+		if info.Name() == "static/Recipes/" {
 			return nil
 		}
 		if contains(files, info.Name()) {
@@ -89,23 +97,20 @@ func newRecipes() []string {
 }
 
 func main() {
-	log.Println("Generating new pages for scanned recipes")
-
+	log.Println("Generating new pages for scanned Recipes")
 	for _, r := range newRecipes() {
 		r := strings.Split(r, "/")
-		archetype, recipe := r[2], strings.Split(r[3], ".")[0]
+		archetype, Recipe := r[1], strings.Split(r[2], ".")[0]
 
 		// TODO: This does not work. Run the Hugo command here and then string replace in the generated file
-		// load and replace recipe name in template
-		path := "recipes/" + archetype + "/" + recipe + ".md"
-		exec.Command("hugo new %s", path)
-		template := loadArchetype(archetype)
-		file := strings.Replace(template, "recipe", recipe, -1)
-
-		// write file
-		err := ioutil.WriteFile("content/recipes/"+archetype+"/"+recipe+".md", []byte(file), 0644)
+		// load and replace Recipe name in template
+		path := archetype + "/" + Recipe + ".md"
+		log.Printf("Generating : %s \n", path)
+		cmd := exec.Command("/usr/local/bin/hugo", "new", path)
+		bytes, err := cmd.Output()
+		log.Print(string(bytes))
 		if err != nil {
-			log.Fatalln(err)
+			log.Fatalf("Error running hugo command: %s", err.Error())
 		}
 	}
 	log.Println("done")

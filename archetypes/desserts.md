@@ -2,16 +2,12 @@
 title: {{ replace .Name "-" " " | title }}
 date: {{ .Date }}
 draft: false
-category: ["bread"]
+category: ["desserts"]
 tags:
 ---
 
 # Recipe
 
-- See image
-
------
-
 # Original Scanned Image
 
-![](/bread/{{ .Name }}.png)
+![](/desserts/{{ .Name }}.png)

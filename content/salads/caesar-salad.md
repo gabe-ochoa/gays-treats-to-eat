@@ -1,6 +1,6 @@
 ---
-title: {{ replace .Name "-" " " | title }}
-date: {{ .Date }}
+title: Caesar Salad
+date: 2018-11-24T13:46:45-06:00
 draft: false
 category: ["salads"]
 tags:
@@ -14,4 +14,4 @@ tags:
 
 # Original Scanned Image
 
-![](/salads/{{ .Name }}.png)
+![](/salads/caesar-salad.png)

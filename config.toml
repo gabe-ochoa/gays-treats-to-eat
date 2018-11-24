@@ -1,0 +1,63 @@
+baseURL = "http://treatstoeat.com/"
+footnoteReturnLinkContents = "↩"
+title = "Treats To Eat"
+copyright = "(c) 2018 Ochoa."
+
+theme = "hyde-y"
+metaDataFormat = "toml"
+languageCode = "en-EN"
+paginate = 25
+paginatePath = "page"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[author]
+    name = "Gabe Ochoa"
+    
+[taxonomies]
+    tag = "tags"
+    category = "category"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # You can use markdown here.
+    brand = "Treats to Eat!"
+    topline = "Nom nom nom nom"
+    footline = "Eating too much since 1991"
+
+    # Sidebar position
+    # false, true, "left", "right"
+    sidebar = "left"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
+
+    # Select a syntax highight for highlight.js
+    # Check the static/css/highlight directory for options.
+    # Leave unset to fall back to default hugo highlighter instead of highlight.js
+    highlight = "default"
+
+    # Google Analytics.
+    googleAnalytics = "Your Google Analytics tracking code"
+
+    # Sidebar social links.
+    github = "gabe-ochoa/treats-to-eat" # Your Github profile ID
+
+    # Sidebar RSS link: will only show up if there is a RSS feed
+    # associated with the current page
+    rss = true
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
