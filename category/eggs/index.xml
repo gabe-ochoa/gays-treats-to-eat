@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eggs on Treats To Eat</title>
+    <link>http://treatstoeat.com/category/eggs/</link>
+    <description>Recent content in Eggs on Treats To Eat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <copyright>(c) 2018 Ochoa.</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 13:46:44 -0600</lastBuildDate>
+    
+	<atom:link href="http://treatstoeat.com/category/eggs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Corn Scramble</title>
+      <link>http://treatstoeat.com/eggs/corn-scramble/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/eggs/corn-scramble/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+  </channel>
+</rss>

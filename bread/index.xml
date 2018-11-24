@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breads on Treats To Eat</title>
+    <link>http://treatstoeat.com/bread/</link>
+    <description>Recent content in Breads on Treats To Eat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <copyright>(c) 2018 Ochoa.</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 13:46:42 -0600</lastBuildDate>
+    
+	<atom:link href="http://treatstoeat.com/bread/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Challah</title>
+      <link>http://treatstoeat.com/bread/challah/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/bread/challah/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Challah 2</title>
+      <link>http://treatstoeat.com/bread/challah-2/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/bread/challah-2/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Corn Bread</title>
+      <link>http://treatstoeat.com/bread/corn-bread/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/bread/corn-bread/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+  </channel>
+</rss>

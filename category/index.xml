@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on Treats To Eat</title>
+    <link>http://treatstoeat.com/category/</link>
+    <description>Recent content in Category on Treats To Eat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <copyright>(c) 2018 Ochoa.</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 13:46:41 -0600</lastBuildDate>
+    
+	<atom:link href="http://treatstoeat.com/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appetizers</title>
+      <link>http://treatstoeat.com/category/appetizers/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:41 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/category/appetizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bread</title>
+      <link>http://treatstoeat.com/category/bread/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/category/bread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desserts</title>
+      <link>http://treatstoeat.com/category/desserts/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/category/desserts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eggs</title>
+      <link>http://treatstoeat.com/category/eggs/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/category/eggs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holidays</title>
+      <link>http://treatstoeat.com/category/holidays/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/category/holidays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meats and Poultry</title>
+      <link>http://treatstoeat.com/category/meats-and-poultry/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:45 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/category/meats-and-poultry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salads</title>
+      <link>http://treatstoeat.com/category/salads/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:46 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/category/salads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegetables</title>
+      <link>http://treatstoeat.com/category/vegetables/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:47 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/category/vegetables/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

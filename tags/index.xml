@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Gay&#39;s Treats To Eat</title>
-    <link>https://treatstoeat.com/tags/</link>
-    <description>Recent content in Tags on Gay&#39;s Treats To Eat</description>
+    <title>Tags on Treats To Eat</title>
+    <link>http://treatstoeat.com/tags/</link>
+    <description>Recent content in Tags on Treats To Eat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-EN</language>
+    <copyright>(c) 2018 Ochoa.</copyright>
     
-	<atom:link href="https://treatstoeat.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://treatstoeat.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

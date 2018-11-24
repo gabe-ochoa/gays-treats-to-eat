@@ -1,23 +1,430 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gay&#39;s Treats To Eat</title>
-    <link>https://treatstoeat.com/</link>
-    <description>Recent content on Gay&#39;s Treats To Eat</description>
+    <title>Treats To Eat</title>
+    <link>http://treatstoeat.com/</link>
+    <description>Recent content on Treats To Eat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 29 Dec 2017 11:23:29 -0600</lastBuildDate>
+    <language>en-EN</language>
+    <copyright>(c) 2018 Ochoa.</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 13:46:47 -0600</lastBuildDate>
     
-	<atom:link href="https://treatstoeat.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://treatstoeat.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test Desert</title>
-      <link>https://treatstoeat.com/recipes/deserts/test-desert/</link>
-      <pubDate>Fri, 29 Dec 2017 11:23:29 -0600</pubDate>
+      <title>Scanned Tomatoes</title>
+      <link>http://treatstoeat.com/vegetables/scanned-tomatoes/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:47 -0600</pubDate>
       
-      <guid>https://treatstoeat.com/recipes/deserts/test-desert/</guid>
-      <description></description>
+      <guid>http://treatstoeat.com/vegetables/scanned-tomatoes/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>24 Hour Cole Slaw</title>
+      <link>http://treatstoeat.com/vegetables/24-hour-cole-slaw/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:46 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/vegetables/24-hour-cole-slaw/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Avocado Soup</title>
+      <link>http://treatstoeat.com/vegetables/avocado-soup/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:46 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/vegetables/avocado-soup/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Bean Salad 1</title>
+      <link>http://treatstoeat.com/vegetables/bean-salad-1/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:46 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/vegetables/bean-salad-1/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Bean Salad 2</title>
+      <link>http://treatstoeat.com/vegetables/bean-salad-2/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:46 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/vegetables/bean-salad-2/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Pickles 1</title>
+      <link>http://treatstoeat.com/vegetables/pickles-1/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:46 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/vegetables/pickles-1/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Pickles 2</title>
+      <link>http://treatstoeat.com/vegetables/pickles-2/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:46 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/vegetables/pickles-2/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Wild Rice and Cranberry Salad</title>
+      <link>http://treatstoeat.com/salads/wild-rice-and-cranberry-salad/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:46 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/salads/wild-rice-and-cranberry-salad/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Caesar Salad</title>
+      <link>http://treatstoeat.com/salads/caesar-salad/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:45 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/salads/caesar-salad/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Moussaka</title>
+      <link>http://treatstoeat.com/meats-and-poultry/moussaka/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:45 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/meats-and-poultry/moussaka/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Oriental Salad</title>
+      <link>http://treatstoeat.com/salads/oriental-salad/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:45 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/salads/oriental-salad/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Oysters Erine 1</title>
+      <link>http://treatstoeat.com/meats-and-poultry/oysters-erine-1/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:45 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/meats-and-poultry/oysters-erine-1/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Oysters Erine 2</title>
+      <link>http://treatstoeat.com/meats-and-poultry/oysters-erine-2/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:45 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/meats-and-poultry/oysters-erine-2/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Stuffed Cabbage</title>
+      <link>http://treatstoeat.com/meats-and-poultry/stuffed-cabbage/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:45 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/meats-and-poultry/stuffed-cabbage/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Stuffed Chicken Thighs</title>
+      <link>http://treatstoeat.com/meats-and-poultry/stuffed-chicken-thighs/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:45 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/meats-and-poultry/stuffed-chicken-thighs/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Wild Rice and Cranberry Salad Handwritten</title>
+      <link>http://treatstoeat.com/salads/wild-rice-and-cranberry-salad-handwritten/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:45 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/salads/wild-rice-and-cranberry-salad-handwritten/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Charocis</title>
+      <link>http://treatstoeat.com/holidays/charocis/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/holidays/charocis/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Chicken Tetrazini 1</title>
+      <link>http://treatstoeat.com/meats-and-poultry/chicken-tetrazini-1/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/meats-and-poultry/chicken-tetrazini-1/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Chicken Tetrazini 2</title>
+      <link>http://treatstoeat.com/meats-and-poultry/chicken-tetrazini-2/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/meats-and-poultry/chicken-tetrazini-2/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Corn Scramble</title>
+      <link>http://treatstoeat.com/eggs/corn-scramble/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/eggs/corn-scramble/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Latkes</title>
+      <link>http://treatstoeat.com/holidays/latkes/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/holidays/latkes/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Matzah Ball Soup</title>
+      <link>http://treatstoeat.com/holidays/matzah-ball-soup/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/holidays/matzah-ball-soup/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Meatloaf</title>
+      <link>http://treatstoeat.com/meats-and-poultry/meatloaf/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/meats-and-poultry/meatloaf/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Stuffing</title>
+      <link>http://treatstoeat.com/holidays/stuffing/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:44 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/holidays/stuffing/</guid>
+      <description>Ochoa Family Stuffing Recipe Dictated from James Ochoa but made originally by Grandma (Juanita) Ochoa
+Ingredients:  2 stalks of organic celery, split, cut into bite sized pieces, use all the celery 4 bunches of green onions, sliced Mushrooms - your choice, pulled or cut into bit sized pieces (James addition, not in original recipe) A single bunch of parsley 4 sprigs of rosemary, pulled off the stalk and minced 12-14 sage leafs 6 sprigs of thyme taken off the stalk Salt, pepper to task.</description>
+    </item>
+    
+    <item>
+      <title>Double Heavenly Hash Browndies</title>
+      <link>http://treatstoeat.com/desserts/double-heavenly-hash-browndies/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/double-heavenly-hash-browndies/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Double Yummy Brownies</title>
+      <link>http://treatstoeat.com/desserts/double-yummy-brownies/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/double-yummy-brownies/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Egg Drop Kisses 1</title>
+      <link>http://treatstoeat.com/desserts/egg-drop-kisses-1/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/egg-drop-kisses-1/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Fresh Blueberry Streussel Pie</title>
+      <link>http://treatstoeat.com/desserts/fresh-blueberry-streussel-pie/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/fresh-blueberry-streussel-pie/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Hamen Taschen</title>
+      <link>http://treatstoeat.com/desserts/hamen-taschen/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/hamen-taschen/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Hamen Taschen 1</title>
+      <link>http://treatstoeat.com/desserts/hamen-taschen-1/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/hamen-taschen-1/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Palm Beach Biscotti</title>
+      <link>http://treatstoeat.com/desserts/palm-beach-biscotti/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/palm-beach-biscotti/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Palm Beach Biscotti Addon</title>
+      <link>http://treatstoeat.com/desserts/palm-beach-biscotti-addon/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/palm-beach-biscotti-addon/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Pumpkin Chiffon Pie</title>
+      <link>http://treatstoeat.com/desserts/pumpkin-chiffon-pie/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/pumpkin-chiffon-pie/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Schaum Torte</title>
+      <link>http://treatstoeat.com/desserts/schaum-torte/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:43 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/schaum-torte/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Challah</title>
+      <link>http://treatstoeat.com/bread/challah/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/bread/challah/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Challah 2</title>
+      <link>http://treatstoeat.com/bread/challah-2/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/bread/challah-2/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Cheese Cake</title>
+      <link>http://treatstoeat.com/desserts/cheese-cake/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/cheese-cake/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Cheese Cake 1</title>
+      <link>http://treatstoeat.com/desserts/cheese-cake-1/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/cheese-cake-1/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Cheese Cake 2</title>
+      <link>http://treatstoeat.com/desserts/cheese-cake-2/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/cheese-cake-2/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Corn Bread</title>
+      <link>http://treatstoeat.com/bread/corn-bread/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/bread/corn-bread/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Death by Chocolate</title>
+      <link>http://treatstoeat.com/desserts/death-by-chocolate/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/death-by-chocolate/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Double Ginger Sour Cream Bundt Cake</title>
+      <link>http://treatstoeat.com/desserts/double-ginger-sour-cream-bundt-cake/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:42 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/desserts/double-ginger-sour-cream-bundt-cake/</guid>
+      <description> Recipe Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Artichoke and Green Olive Dip</title>
+      <link>http://treatstoeat.com/appetizers/artichoke-and-green-olive-dip/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:41 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/appetizers/artichoke-and-green-olive-dip/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Caponata</title>
+      <link>http://treatstoeat.com/appetizers/caponata/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:41 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/appetizers/caponata/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Ruben Salad Mold</title>
+      <link>http://treatstoeat.com/appetizers/ruben-salad-mold/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:41 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/appetizers/ruben-salad-mold/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Salmon Mouse</title>
+      <link>http://treatstoeat.com/appetizers/salmon-mouse/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:41 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/appetizers/salmon-mouse/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
     </item>
     
   </channel>

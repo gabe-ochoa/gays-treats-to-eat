@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appetizers on Treats To Eat</title>
+    <link>http://treatstoeat.com/appetizers/</link>
+    <description>Recent content in Appetizers on Treats To Eat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <copyright>(c) 2018 Ochoa.</copyright>
+    <lastBuildDate>Sat, 24 Nov 2018 13:46:41 -0600</lastBuildDate>
+    
+	<atom:link href="http://treatstoeat.com/appetizers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artichoke and Green Olive Dip</title>
+      <link>http://treatstoeat.com/appetizers/artichoke-and-green-olive-dip/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:41 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/appetizers/artichoke-and-green-olive-dip/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Caponata</title>
+      <link>http://treatstoeat.com/appetizers/caponata/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:41 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/appetizers/caponata/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Ruben Salad Mold</title>
+      <link>http://treatstoeat.com/appetizers/ruben-salad-mold/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:41 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/appetizers/ruben-salad-mold/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+    <item>
+      <title>Salmon Mouse</title>
+      <link>http://treatstoeat.com/appetizers/salmon-mouse/</link>
+      <pubDate>Sat, 24 Nov 2018 13:46:41 -0600</pubDate>
+      
+      <guid>http://treatstoeat.com/appetizers/salmon-mouse/</guid>
+      <description> Recipe  See image  Original Scanned Image </description>
+    </item>
+    
+  </channel>
+</rss>

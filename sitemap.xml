@@ -3,38 +3,350 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://treatstoeat.com/recipes/deserts/test-desert/</loc>
-    <lastmod>2017-12-29T11:23:29-06:00</lastmod>
+    <loc>http://treatstoeat.com/vegetables/scanned-tomatoes/</loc>
+    <lastmod>2018-11-24T13:46:47-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://treatstoeat.com/recipes/deserts/</loc>
-    <lastmod>2017-12-29T10:37:11-06:00</lastmod>
+    <loc>http://treatstoeat.com/vegetables/24-hour-cole-slaw/</loc>
+    <lastmod>2018-11-24T13:46:46-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://treatstoeat.com/about/</loc>
+    <loc>http://treatstoeat.com/vegetables/avocado-soup/</loc>
+    <lastmod>2018-11-24T13:46:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/vegetables/bean-salad-1/</loc>
+    <lastmod>2018-11-24T13:46:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/vegetables/bean-salad-2/</loc>
+    <lastmod>2018-11-24T13:46:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/vegetables/pickles-1/</loc>
+    <lastmod>2018-11-24T13:46:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/vegetables/pickles-2/</loc>
+    <lastmod>2018-11-24T13:46:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/salads/wild-rice-and-cranberry-salad/</loc>
+    <lastmod>2018-11-24T13:46:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/salads/caesar-salad/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/meats-and-poultry/moussaka/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/salads/oriental-salad/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/meats-and-poultry/oysters-erine-1/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/meats-and-poultry/oysters-erine-2/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/meats-and-poultry/stuffed-cabbage/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/meats-and-poultry/stuffed-chicken-thighs/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/salads/wild-rice-and-cranberry-salad-handwritten/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/holidays/charocis/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/meats-and-poultry/chicken-tetrazini-1/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/meats-and-poultry/chicken-tetrazini-2/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/eggs/corn-scramble/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/holidays/latkes/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/holidays/matzah-ball-soup/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/meats-and-poultry/meatloaf/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/holidays/stuffing/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/double-heavenly-hash-browndies/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/double-yummy-brownies/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/egg-drop-kisses-1/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/fresh-blueberry-streussel-pie/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/hamen-taschen/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/hamen-taschen-1/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/palm-beach-biscotti/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/palm-beach-biscotti-addon/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/pumpkin-chiffon-pie/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/schaum-torte/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/bread/challah/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/bread/challah-2/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/cheese-cake/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/cheese-cake-1/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/cheese-cake-2/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/bread/corn-bread/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/death-by-chocolate/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/double-ginger-sour-cream-bundt-cake/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/appetizers/artichoke-and-green-olive-dip/</loc>
+    <lastmod>2018-11-24T13:46:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/appetizers/caponata/</loc>
+    <lastmod>2018-11-24T13:46:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/appetizers/ruben-salad-mold/</loc>
+    <lastmod>2018-11-24T13:46:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/appetizers/salmon-mouse/</loc>
+    <lastmod>2018-11-24T13:46:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/about/</loc>
     <lastmod>2017-12-28T10:06:04-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://treatstoeat.com/</loc>
-    <lastmod>2017-12-29T11:23:29-06:00</lastmod>
+    <loc>http://treatstoeat.com/appetizers/</loc>
+    <lastmod>2018-11-24T13:46:41-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://treatstoeat.com/recipe-category/</loc>
+    <loc>http://treatstoeat.com/category/appetizers/</loc>
+    <lastmod>2018-11-24T13:46:41-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://treatstoeat.com/recipes/</loc>
+    <loc>http://treatstoeat.com/category/bread/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://treatstoeat.com/tags/</loc>
+    <loc>http://treatstoeat.com/bread/</loc>
+    <lastmod>2018-11-24T13:46:42-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/category/</loc>
+    <lastmod>2018-11-24T13:46:41-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/desserts/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/category/desserts/</loc>
+    <lastmod>2018-11-24T13:46:43-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/eggs/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/category/eggs/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/holidays/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/category/holidays/</loc>
+    <lastmod>2018-11-24T13:46:44-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/category/meats-and-poultry/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/meats-and-poultry/</loc>
+    <lastmod>2018-11-24T13:46:45-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/salads/</loc>
+    <lastmod>2018-11-24T13:46:46-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/category/salads/</loc>
+    <lastmod>2018-11-24T13:46:46-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/</loc>
+    <lastmod>2018-11-24T13:46:47-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/vegetables/</loc>
+    <lastmod>2018-11-24T13:46:47-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://treatstoeat.com/category/vegetables/</loc>
+    <lastmod>2018-11-24T13:46:47-06:00</lastmod>
     <priority>0</priority>
   </url>
   
