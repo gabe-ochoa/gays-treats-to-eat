@@ -12,6 +12,10 @@ tags:
 
 Dictated from James Ochoa but made originally by Grandma (Juanita) Ochoa
 
+### Serving Size
+
+Fits a 12-20lb bird. There will be leftovers to cook on the side. 
+
 ### Ingredients:
 
 - 2 stalks of organic celery, split, cut into bite sized pieces, use all the celery
