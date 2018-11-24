@@ -46,7 +46,7 @@ paginatePath = "page"
     googleAnalytics = "Your Google Analytics tracking code"
 
     # Sidebar social links.
-    github = "gabe-ochoa/treats-to-eat" # Your Github profile ID
+    github = "gabe-ochoa/gays-treats-to-eat" # Your Github profile ID
 
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page
