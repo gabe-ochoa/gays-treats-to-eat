@@ -2,7 +2,7 @@ kind: pipeline
 name: build-and-deploy
 steps:
 - name: build and publish
-  image: golang:1.11-alpine3.8
+  image: golang:1.11
   commands:
   - go get -u github.com/gohugoio/hugo
   - ./publish.sh
