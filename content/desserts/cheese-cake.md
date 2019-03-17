@@ -11,3 +11,5 @@ tags:
 # Original Scanned Image
 
 ![](/desserts/cheese-cake.png)
+![](/desserts/cheese-cake-1.png)
+![](/desserts/cheese-cake-2.png)
